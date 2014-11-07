@@ -1,2 +1,5 @@
 nerdsdoalfa
 ===========
+-lucas 
+-gustavo
+-leandro
